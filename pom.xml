@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.leadingagile</groupId>
+  <groupId>com.neopragma</groupId>
   <artifactId>cucumbersandbox</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Archetype - cucumbersandbox</name>
@@ -55,4 +55,16 @@
       </plugin>
    </plugins>
   </build>
+  <organization>
+  	<name>NeoPragma LLC</name>
+  	<url>http://neopragma.com</url>
+  </organization>
+  <scm>
+  	<url>https://github.com/neopragma/cucumbersandbox</url>
+  	<developerConnection>NeoPragma LLC</developerConnection>
+  </scm>
+  <issueManagement>
+  	<system>Github</system>
+  	<url>https://github.com/neopragma/cucumbersandbox/issues</url>
+  </issueManagement>
 </project>
