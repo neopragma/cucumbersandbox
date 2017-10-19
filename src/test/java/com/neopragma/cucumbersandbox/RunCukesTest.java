@@ -1,4 +1,4 @@
-package com.leadingagile.cucumbersandbox;
+package com.neopragma.cucumbersandbox;
 
 import org.junit.runner.RunWith;
 

@@ -1,4 +1,4 @@
-package com.leadingagile.cucumbersandbox;
+package com.neopragma.cucumbersandbox;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
